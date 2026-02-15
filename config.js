@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Welcome to Frankie's world! 🎉💝💖💝💓",
         message: "Thank you for giving me the happiest 100 days, can't wait to see the next chapter!!!!!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🎁💖🤗💝❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
